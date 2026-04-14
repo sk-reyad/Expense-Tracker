@@ -1,4 +1,4 @@
-# 📊 Financial Pulse: Professional Expense Tracker
+# 📊 Expense Tracker
 
 A sophisticated, client-side financial management dashboard engineered for real-time transaction tracking, balance calculation, and persistent data storage.
 
