@@ -2,7 +2,7 @@
 
 A sophisticated, client-side financial management dashboard engineered for real-time transaction tracking, balance calculation, and persistent data storage.
 
-  * **Live Demo Link:** https://sk-reyad.github.io/02-Expense-Tracker/
+  * **Live Demo Link:** [https://sk-reyad.github.io/02-Expense-Tracker/](https://sk-reyad.github.io/Expense-Tracker/)
 
 -----
 
